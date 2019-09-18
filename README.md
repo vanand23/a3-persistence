@@ -23,9 +23,9 @@ This project aims to help people who want to plan for a roadtrip be more cost ef
   - Cookie-Parser: Parse cookie header and populate req.cookies.
   - Helmet: Helps secure your apps by setting various HTTP headers.
   
--Existing User Login Information:
-  -Username: vandana, Password: hello
-  -Username: bob, Password: jacksonhill
+- Existing User Login Information:
+  - Username: vandana, Password: hello
+  - Username: bob, Password: jacksonhill
 
 Requirements
 ---
