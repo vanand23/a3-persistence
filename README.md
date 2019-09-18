@@ -27,7 +27,7 @@ This project aims to help people who want to plan for a roadtrip be more cost ef
   - Username: vandana, Password: hello
   - Username: bob, Password: jacksonhill
 
-Requirements
+Requirements Satisfied
 ---
 
 - a `Server`, created using Express. ✓
